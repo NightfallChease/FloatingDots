@@ -1,0 +1,10 @@
+C:\Users\nightfall\Documents\C#\MyProjects\FloatingDots\FloatingDots\bin\Debug\FloatingDots.exe.config
+C:\Users\nightfall\Documents\C#\MyProjects\FloatingDots\FloatingDots\bin\Debug\FloatingDots.exe
+C:\Users\nightfall\Documents\C#\MyProjects\FloatingDots\FloatingDots\bin\Debug\FloatingDots.pdb
+C:\Users\nightfall\Documents\C#\MyProjects\FloatingDots\FloatingDots\obj\Debug\FloatingDots.csproj.AssemblyReference.cache
+C:\Users\nightfall\Documents\C#\MyProjects\FloatingDots\FloatingDots\obj\Debug\FloatingDots.Form1.resources
+C:\Users\nightfall\Documents\C#\MyProjects\FloatingDots\FloatingDots\obj\Debug\FloatingDots.Properties.Resources.resources
+C:\Users\nightfall\Documents\C#\MyProjects\FloatingDots\FloatingDots\obj\Debug\FloatingDots.csproj.GenerateResource.cache
+C:\Users\nightfall\Documents\C#\MyProjects\FloatingDots\FloatingDots\obj\Debug\FloatingDots.csproj.CoreCompileInputs.cache
+C:\Users\nightfall\Documents\C#\MyProjects\FloatingDots\FloatingDots\obj\Debug\FloatingDots.exe
+C:\Users\nightfall\Documents\C#\MyProjects\FloatingDots\FloatingDots\obj\Debug\FloatingDots.pdb
